@@ -1,5 +1,5 @@
 {
-  "name": "gtstudio/module-selected-layout",
+  "name": "grudado/module-selected-layout",
   "version": "1.0.3",
   "description": "Add general selectable layout functionality on CMS pages,category and products",
   "type": "magento2-module",
